@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:12:47.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fP9f73AD-ZJGn7NQrOrQ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:26:17.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iu-p7IcRKPRj6PqXdu0N" version="21.3.8" type="github">
   <diagram name="Intersection" id="mjdflIWaUyTx3Rmq8xrl">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="xl5SwCBmhRfWHx-1p6Vz-8" value="c3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xl5SwCBmhRfWHx-1p6Vz-23" value="&lt;ul&gt;&lt;li&gt;a1-&amp;gt;a2-&amp;gt;c1-&amp;gt;c2-&amp;gt;c3-&amp;gt;b1-&amp;gt;b2-&amp;gt;b3&lt;/li&gt;&lt;li&gt;b1-&amp;gt;b2-&amp;gt;b3-&amp;gt;c1-&amp;gt;c2-&amp;gt;c3-&amp;gt;a1-&amp;gt;a2&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="260" height="40" as="geometry" />
+        <mxCell id="xl5SwCBmhRfWHx-1p6Vz-23" value="&lt;div&gt;If there&#39;s an intersection, these two pointers should meet at node c1:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;a1-&amp;gt;a2-&amp;gt;c1-&amp;gt;c2-&amp;gt;c3-&amp;gt;b1-&amp;gt;b2-&amp;gt;b3-&amp;gt;c1&lt;/li&gt;&lt;li&gt;b1-&amp;gt;b2-&amp;gt;b3-&amp;gt;c1-&amp;gt;c2-&amp;gt;c3-&amp;gt;a1-&amp;gt;a2-&amp;gt;c1&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="440" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
